@@ -52,5 +52,6 @@ A compact 4‑degree‑of‑freedom robotic vacuum stage built for uniform 3D na
   - Touchscreen menus for manual jog, preset routines, and emergency stop
 
 ## Demo Video
-<video src="demo.mp4" controls width="640" preload="metadata">
+<video controls width="720" preload="metadata">
+  <source src="https://raw.githubusercontent.com/Yonghonghui/Four-Axis-Vacuum-Stage/main/demo.mp4" type="video/mp4">
 </video>
