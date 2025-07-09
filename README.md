@@ -8,7 +8,11 @@ A compact 4‑degree‑of‑freedom robotic vacuum stage built for uniform 3D na
 
 1. [Features](#features)  
 2. [Hardware Design](#hardware-design)  
-3. [Control & Software](#control--software)  
+3. [Control & Software](#control--software)
+4. [Demo Video](#demo-video)
+5. [Acknowledgments](#acknowledgments)  
+
+
 
    
 
@@ -55,4 +59,10 @@ A compact 4‑degree‑of‑freedom robotic vacuum stage built for uniform 3D na
 
 https://github.com/user-attachments/assets/5fe958f8-461f-49d0-bc21-64e14d51936e
 
+## Acknowledgments
+Prof. Oleskiy Penkov, Advanced Nanocoating Lab, Zhejiang Univeristy-UIUC 
+
+Team member: Yanghonghui Chen / Songyuan Lyv / Xingjian Kang / Yanjie Li 
+
+UIUC ECE Senior Design Program
 
