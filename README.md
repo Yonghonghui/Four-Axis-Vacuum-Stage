@@ -52,8 +52,7 @@ A compact 4‑degree‑of‑freedom robotic vacuum stage built for uniform 3D na
   - Touchscreen menus for manual jog, preset routines, and emergency stop
 
 ## Demo Video
-<video controls width="720" preload="metadata">
-  <source src="demo.mp4" type="video/mp4">
-  您的浏览器不支持 HTML5 video 标签。
-</video>
+
+https://github.com/user-attachments/assets/5fe958f8-461f-49d0-bc21-64e14d51936e
+
 
