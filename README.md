@@ -9,15 +9,9 @@ A compact 4‑degree‑of‑freedom robotic vacuum stage built for uniform 3D na
 1. [Features](#features)  
 2. [Hardware Design](#hardware-design)  
 3. [Control & Software](#control--software)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-   - [Running the Demo](#running-the-demo)  
-5. [Directory Structure](#directory-structure)  
-6. [Testing & Validation](#testing--validation)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Acknowledgments](#acknowledgments)  
+
+   
+
 
 ---
 
