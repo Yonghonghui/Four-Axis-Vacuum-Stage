@@ -53,5 +53,7 @@ A compact 4‑degree‑of‑freedom robotic vacuum stage built for uniform 3D na
 
 ## Demo Video
 <video controls width="720" preload="metadata">
-  <source src="https://raw.githubusercontent.com/Yonghonghui/Four-Axis-Vacuum-Stage/main/demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
+  您的浏览器不支持 HTML5 video 标签。
 </video>
+
